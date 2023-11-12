@@ -1,0 +1,12 @@
+body {background-image: url(Pics/abtbckgrnd.jpg);background-size: cover;background-attachment: fixed;}
+h1 {color:#f8f2f2;font-family: 'regal classic,'serif;font-size: 35px;}
+h2 {color: #ffffff;ont-family: 'regal classic,'serif;font-size: 25px;}
+nav > a {color: rgb(208, 156, 119); font-family:'regal classic,'serif; text-decoration: none; 
+    border: 1px solid #f8f2f2;p}
+.navbar a:hover {background-color: #f8f2f2;
+        color: #37502b;}   
+.navbar {font-family: 'regal classic,'serif;
+    font-size: 25px;}     
+.about-section img {height: 300px; width: 300px;border: 12px solid #ffffff; border-top: 25px solid #ffffff; border-bottom: 45px solid #ffffff;}
+p {color: #ffffff;font-family: 'regal classic,'serif;font-size: 20px;}
+img {float: right; margin: 15px;}

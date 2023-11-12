@@ -1,0 +1,12 @@
+body {background-image: url(Pics/portbckgrnd.jpg);background-size: cover;background-attachment: fixed;}
+h1 {color:#a23924;font-family: 'regal classic,'serif;font-size: 35px;background-color: #f8f2f2;}
+h2 {color: #ffffff;ont-family: 'regal classic,'serif;font-size: 45px;}
+p {color: #ffffff;font-family: 'regal classic,'serif;font-size: 30px;}
+nav > a {color: #a23924; font-family:'regal classic,'serif; text-decoration: none; 
+    border: 1px solid #f8f2f2;p}
+.navbar a:hover {background-color: #f8f2f2;
+        color: #37502b;}   
+.navbar {font-family: 'regal classic,'serif;
+    font-size: 25px;}  
+.project-content {display: flex;}
+img {height: 500px;width: 500px;}
